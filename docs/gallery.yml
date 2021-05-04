@@ -149,3 +149,8 @@
   repository: https://github.com/INRIA/scikit-learn-mooc
   image: https://inria.github.io/scikit-learn-mooc/_static/scikit-learn-logo.png
   website: https://inria.github.io/scikit-learn-mooc/
+- name: "Matrix Algebra with Computational Applications"
+  repository: https://colbrydi.github.io/MatrixAlgebra/0-Introduction.html
+  image: https://colbrydi.github.io/MatrixAlgebra/_images/Cover_horizontal.png
+  website: https://openbooks.lib.msu.edu/catalog/msulib
+  
